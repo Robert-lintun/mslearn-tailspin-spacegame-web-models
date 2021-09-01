@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/RL-DevOps/Space%20Game%20-%20web%20-%20Dependencies/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=models-package)](https://dev.azure.com/RL-DevOps/Space%20Game%20-%20web%20-%20Dependencies/_build/latest?definitionId=4&branchName=models-package)
 
 # Contributing
 
